@@ -1,1 +1,2 @@
 # zajecia_git
+qwertyui
